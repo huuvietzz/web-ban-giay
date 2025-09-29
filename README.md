@@ -25,8 +25,8 @@ Admin có quyền quản lý sản phẩm, tài khoản, tin tức, chính sách
 - **Ngôn ngữ**: Java  
 - **Framework**: Spring Boot, Spring MVC  
 - **CSDL**: MySQL  
-- **Frontend**: HTML, CSS, JavaScript (JSP/Thymeleaf)  
-- **IDE**: IntelliJ IDEA / Eclipse  
+- **Frontend**: HTML, CSS, JavaScript (Thymeleaf)  
+- **IDE**: IntelliJ IDEA 
 - **Quản lý gói**: Maven  
 
 ---
@@ -75,3 +75,7 @@ Admin có quyền quản lý sản phẩm, tài khoản, tin tức, chính sách
 1. Clone dự án về máy:  
    ```bash
    git clone https://github.com/your-username/web-ban-giay.git
+2. Mở Intellij IDEA chạy project
+3. Truy cập link để chạy trang web:
+   ```bash
+   http://localhost:8080/
