@@ -4,23 +4,32 @@ Sau đây là giao diện
 Header: 
 ![image](https://github.com/user-attachments/assets/731a836d-2a9c-4107-aed6-ef1a6885f710)
 Footer: 
+
 ![image](https://github.com/user-attachments/assets/ed03b7fc-2e88-41bc-803e-9a428a80d41b)
-Body: 
+Body:
+
 ![image](https://github.com/user-attachments/assets/7409975d-f435-4adc-ac8b-4aea6c70ad8b)
 Đăng ký: 
+
 ![image](https://github.com/user-attachments/assets/7591eab1-ae50-4529-bb66-0531b258b7e5)
 Đăng nhập: 
+
 ![image](https://github.com/user-attachments/assets/8629c834-1403-4385-9e32-3668e6f7142a)
 Sản phẩm: 
+
 ![image](https://github.com/user-attachments/assets/72b7fbfd-e5be-4592-986b-9ee4eea29f82)
 Thông tin tài khoản: 
+
 ![image](https://github.com/user-attachments/assets/273ea50d-6d2c-4a05-8f92-cc11262fc875)
 Chính sách, địa chỉ: 
+
 ![image](https://github.com/user-attachments/assets/8dd6847b-d1f7-4ba6-b535-e20c9ca077d8)
 ![image](https://github.com/user-attachments/assets/09acdc0b-c0db-44d7-a4f8-4532c7922e90)
 Tin tức: 
+
 ![image](https://github.com/user-attachments/assets/b6566098-c5d5-4e2a-9d3d-3f8e743ab7ad)
 Chi tiết sản phẩm: 
+
 ![image](https://github.com/user-attachments/assets/94290c6c-de2c-46be-8f94-bdbb3537eb1c)
 
 
