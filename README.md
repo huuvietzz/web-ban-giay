@@ -68,6 +68,15 @@ Admin có quyền quản lý sản phẩm, tài khoản, tin tức, chính sách
 ### Tin tức  
 ![Tin tức](https://github.com/user-attachments/assets/b6566098-c5d5-4e2a-9d3d-3f8e743ab7ad)  
 
+### Phân quyền Admin 
+![image](https://github.com/user-attachments/assets/117dd873-ee99-4264-a37a-e4f31918d144) 
+![image](https://github.com/user-attachments/assets/1108eaef-d319-4ee1-8927-dd91f2c5e2b9) 
+![image](https://github.com/user-attachments/assets/a187c304-5c17-4bea-9237-3717db33502e) 
+![image](https://github.com/user-attachments/assets/9ccac13c-9f4c-423e-8681-b7b343278960) 
+![image](https://github.com/user-attachments/assets/5a3474d7-519c-49dd-9483-533abc766652) 
+![image](https://github.com/user-attachments/assets/d97b0517-c504-4acf-bdb0-bf8c79155973) 
+![image](https://github.com/user-attachments/assets/abd6a403-c534-4bfd-8b17-35dab93c976b)
+
 ---
 
 ## ⚙️ Hướng dẫn cài đặt  
