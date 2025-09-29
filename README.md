@@ -28,10 +28,4 @@ Trong đồ án này, mình đã xây dựng một trang web bán giày sử d�
 Mặc dù đã có nhiều cố gắng, tìm hiểu các kiến thức đã học, kết hợp tra cứu các tài liệu chuyên nghành nhưng do còn hạn chế về khả năng và kinh nghiệm nên không tránh khỏi những thiếu sót nhất định nên đề tài đã hoàn thành ở mức độ sau:
 •	Tìm hiểu ngôn ngữ lập trình JAVA, SPRINGBOOT MVC & MYSQL SERVER
 •	Áp dụng xây dựng ứng dụng thực nghiệm Website bán giày
-
-
-
-
-
-# web-ban-giay
 # web-ban-giay
