@@ -10,9 +10,6 @@ Dự án đồ án môn học **Java Web**: xây dựng ứng dụng thương m�
 - [Chức năng chính](#-chức-năng-chính)  
 - [Giao diện](#-giao-diện)  
 - [Hướng dẫn cài đặt](#-hướng-dẫn-cài-đặt)  
-- [Phân quyền](#-phân-quyền)  
-- [Kết luận](#-kết-luận)  
-
 ---
 
 ## 🚀 Giới thiệu  
