@@ -9,7 +9,7 @@ Dự án đồ án môn học **Java Web**: xây dựng ứng dụng thương m�
 - [Công nghệ sử dụng](#-công-nghệ-sử-dụng)  
 - [Chức năng chính](#-chức-năng-chính)  
 - [Giao diện](#-giao-diện)  
-- [Hướng dẫn cài đặt](#-hướng-dẫn-cài-đặt)  
+- [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)  
 ---
 
 ## 🚀 Giới thiệu  
@@ -76,7 +76,7 @@ Admin có quyền quản lý sản phẩm, tài khoản, tin tức, chính sách
 
 ---
 
-## ⚙️ Hướng dẫn cài đặt  
+## Hướng dẫn cài đặt  
 
 1. Clone dự án về máy:  
    ```bash
